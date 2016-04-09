@@ -1,0 +1,36 @@
+{
+  "offerings": [
+    {
+      "id": 0,
+      "offering_name": "Apparel/Apparel Accessories/"
+    },
+    {
+      "id": 0,
+      "offering_name": "Apparel/Apparel Accessories/Bags & Packs"
+    },
+    {
+      "id": 1,
+      "offering_name": "Arts & Entertainment"
+    },
+    {
+      "id": 1,
+      "offering_name": "Arts & Entertainment/Movies & Films/Drama Films"
+    },
+    {
+      "id": 2,
+      "offering_name": "Business & Industrial/Janitorial Products & Services/Floor Cleaning"
+    },
+    {
+      "id": 3,
+      "offering_name": "Computers & Consumer Electronics/Consumer Electronics/Portable Media Devices/MP3 Player Accessories"
+    },
+    {
+      "id": 4,
+      "offering_name": "Family & Community/Romance & Relationships/Dating & Marriage Matching"
+    },
+    {
+      "id": 5,
+      "offering_name": "Food & Groceries/Food/Special & Restricted Diet Foods/Religious Diet Foods/Kosher Foods & Resources"
+    }
+  ]
+}
